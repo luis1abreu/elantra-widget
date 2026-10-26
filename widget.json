@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "vehiculo": "2020 Elantra SEL",
+  "odometro_mi": 168143,
+  "combustible_pct": 55,
+  "combustible_gal": 7.7,
+  "autonomia_mi": 170,
+  "autonomia_fuente": "tablero",
+  "mpg": 20.9,
+  "lectura_fecha": "2026-10-25",
+  "actualizado": "2026-10-26T17:17:10-04:00"
+}
