@@ -7,6 +7,23 @@
   "autonomia_mi": 170,
   "autonomia_fuente": "tablero",
   "mpg": 20.9,
+  "llenar_fecha": "2026-10-31",
+  "gasolina_semana_rd": 1627,
+  "semana_desde": "2026-10-19",
+  "vencimientos": [
+    {
+      "concepto": "Seguro Humano: cuota 2 de 6",
+      "fecha": "2026-11-06"
+    },
+    {
+      "concepto": "Seguro Humano: cuota 3 de 6",
+      "fecha": "2026-12-06"
+    },
+    {
+      "concepto": "Seguro Humano: cuota 4 de 6",
+      "fecha": "2027-01-06"
+    }
+  ],
   "lectura_fecha": "2026-10-25",
-  "actualizado": "2026-10-26T17:17:10-04:00"
+  "actualizado": "2026-10-26T19:21:20-04:00"
 }
