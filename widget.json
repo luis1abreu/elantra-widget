@@ -1,14 +1,14 @@
 {
   "version": 1,
   "vehiculo": "2020 Elantra SEL",
-  "odometro_mi": 168183,
-  "combustible_pct": 41,
-  "combustible_gal": 5.8,
-  "autonomia_mi": 97,
+  "odometro_mi": 168226,
+  "combustible_pct": 27,
+  "combustible_gal": 3.7,
+  "autonomia_mi": 41,
   "autonomia_fuente": "tablero",
   "mpg": 20.9,
-  "llenar_fecha": "2026-11-03",
-  "gasolina_semana_rd": 678,
+  "llenar_fecha": "2026-10-30",
+  "gasolina_semana_rd": 1407,
   "semana_desde": "2026-10-26",
   "vencimientos": [
     {
@@ -25,5 +25,5 @@
     }
   ],
   "lectura_fecha": "2026-10-30",
-  "actualizado": "2026-10-30T07:06:05-04:00"
+  "actualizado": "2026-10-30T21:55:58-04:00"
 }
